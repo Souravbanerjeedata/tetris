@@ -1,10 +1,8 @@
 # Neon Tetris
 
-A modern, neon-styled Tetris game built with pure HTML, CSS, and vanilla JavaScript.
+![Gameplay screenshot](./preview.png)
 
-Matches the visual language of [Neon Snake](https://souravbanerjeedata.github.io/snake-game-in-javascript/) — dark cyber aesthetic, glowing pieces, Orbitron typography, and smooth mobile support.
-
----
+## A modern, neon-styled Tetris game built with pure HTML, CSS, and vanilla JavaScript.
 
 ## Play Online
 
@@ -31,15 +29,15 @@ Open `index.html` in any modern browser, or host the folder on GitHub Pages.
 
 ### Desktop
 
-| Key | Action |
-|-----|--------|
-| ← → | Move left / right |
-| ↑ or X | Rotate clockwise |
-| Z | Rotate counter-clockwise |
-| ↓ | Soft drop |
-| Space | Hard drop |
-| C | Hold / swap piece |
-| P | Pause / resume |
+| Key    | Action                   |
+| ------ | ------------------------ |
+| ← →    | Move left / right        |
+| ↑ or X | Rotate clockwise         |
+| Z      | Rotate counter-clockwise |
+| ↓      | Soft drop                |
+| Space  | Hard drop                |
+| C      | Hold / swap piece        |
+| P      | Pause / resume           |
 
 ### Mobile
 
@@ -53,7 +51,7 @@ Open `index.html` in any modern browser, or host the folder on GitHub Pages.
 ## How Scoring Works
 
 | Lines cleared | Points (× level) |
-|---------------|------------------|
+| ------------- | ---------------- |
 | 1 (Single)    | 100              |
 | 2 (Double)    | 300              |
 | 3 (Triple)    | 500              |
