@@ -4,9 +4,7 @@
 
 ## A modern, neon-styled Tetris game built with pure HTML, CSS, and vanilla JavaScript.
 
-## Play Online
-
-Open `index.html` in any modern browser, or host the folder on GitHub Pages.
+## [Play Online](https://souravbanerjeedata.github.io/tetris/)
 
 ---
 
@@ -75,23 +73,6 @@ tetris/
 ```
 
 No build step. No dependencies. Just open and play.
-
----
-
-## Improvements over the original
-
-The original repo was a basic tutorial-style Tetris (yellow background, plain blocks, minimal UI). This version adds:
-
-- Full neon aesthetic matching Neon Snake
-- Proper scoring, levels, and progressive speed
-- Hold queue + next-piece preview
-- Ghost piece
-- 7-bag randomizer
-- Wall-kick rotation
-- Pause support
-- Mobile swipe + tap controls
-- Game-over and start modals
-- Clean, modern responsive UI
 
 ---
 
